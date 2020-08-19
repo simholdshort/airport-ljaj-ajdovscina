@@ -1,7 +1,7 @@
 # airport-ljaj-ajdovscina
 LJAJ Airport for Microsoft flight simulator
 
-Unzip files to your Microsoft flight simulator installation directory under Comunity subfolder.
+Unzip file "holdshort-airport-ljaj-ajdovscina.zip" to your Microsoft flight simulator installation directory under Comunity subfolder.
 
 v0.1.4
 - added taxiway and parking positions
