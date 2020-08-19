@@ -1,5 +1,5 @@
 # airport-ljaj-ajdovscina
-LJAJ Airport for Microsoft flight simulator
+LJAJ Airport for Microsoft flight simulator 2020
 
 Unzip file "holdshort-airport-ljaj-ajdovscina.zip" to your Microsoft flight simulator installation directory under Comunity subfolder.
 
