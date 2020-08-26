@@ -2,7 +2,9 @@
 LJAJ Airport for Microsoft flight simulator 2020
 
 Dev version of LJAJ:
+
 26.08.2020
+
 - holdshort-ljaj-2020-08-26.zip - contains main hangar, textures not yet complete
 
 Unzip file "holdshort-airport-ljaj-ajdovscina.zip" to your Microsoft flight simulator installation directory under Comunity subfolder.
